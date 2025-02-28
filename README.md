@@ -11,8 +11,6 @@ This project implements various finite automata algorithms in Python for discret
 - **/src**  
   - `automata_demo.ipynb`: Jupyter notebook with demonstrations and tests  
   - `automata_main.py`: Main Python code and utilities  
-- **/docs** (if needed)  
-- **/examples** (if needed)
 
 ## How to Run
 1. Clone this repository:
